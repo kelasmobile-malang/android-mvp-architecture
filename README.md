@@ -11,3 +11,6 @@ Use
 - Migrate to Androidx
 - Lottie https://github.com/airbnb/lottie-android
 - Empty State Asset https://lottiefiles.com/629-empty-box
+
+# Materi Slide
+https://docs.google.com/presentation/d/1MAkcDWujr51mnX7V8VDLP2Pdq5mFabER2By1BbPPSkA/edit?usp=sharing
